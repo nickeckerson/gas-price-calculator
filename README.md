@@ -1,8 +1,12 @@
 # Gas Price Calculator (Python)
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Project-Type-Student%20Exercise-brightgreen)
+
 This is a simple Python console program that calculates how much it will cost to fill your car's gas tank.
 
 The user enters:
+
 - Total tank size (in gallons)
 - Current gallons in the tank
 - Price of gas per gallon
