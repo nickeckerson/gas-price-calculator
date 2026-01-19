@@ -21,11 +21,3 @@ The program then calculates how many gallons are needed to fill the tank and the
 
 ```bash
 python gas_price.py
-
-### Example Output
-
-```text
-How big is your car's gas tank: 15
-How many gallons are in your tank now: 5
-What is the price of gas per gallon: 3.40
-Your gas will cost $34.00
